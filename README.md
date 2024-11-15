@@ -9,6 +9,9 @@ Hi there! 👋 I'm Tamara Kraljevska, a passionate web developer and designer. I
 - 👯 I’m looking to collaborate on: **Open source projects related to web development and design systems.**
 - 📫 How to reach me: [Email me](mailto:kraljevskatamara@yahoo.com)
 
+- # Figma Project
+View the Figma design project here: [Figma Design](https://www.figma.com/design/yAHtT1vDHzpbfzb1u0NmPy/Online-Shop-Project?node-id=0-1&t=VXrpuh8DZnGFnSms-1)
+
 
 <!---
 Kraljevska/Kraljevska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
